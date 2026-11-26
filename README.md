@@ -53,3 +53,4 @@ python -m unittest discover -s tests -v
 ## Author
 
 Siavash Mirtaheri (BlackVash) — 2026. MIT license.
+Backed by [Metadigi](https://metadigi.ir) — https://metadigi.ir
